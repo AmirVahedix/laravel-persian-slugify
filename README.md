@@ -1,4 +1,5 @@
 #Laravel Persian Slugify
+
 generate slugs for persian strings, just with 1 helper!
 
 ---
