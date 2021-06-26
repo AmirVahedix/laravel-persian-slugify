@@ -7,7 +7,7 @@ generate slugs for persian strings, just with 1 helper!
 ## Installation
 Install via composer:
 
-```composer require amirvahedix\laravel-persian-slugify```
+```composer require amirvahedix/laravel-persian-slugify```
 
 ## Usage
 just use ```slugify()``` helper anywhere you want in your project:
