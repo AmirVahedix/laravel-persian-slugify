@@ -1,0 +1,30 @@
+{
+    "name": "amirvahedix/laravel-persian-slugify",
+    "description": "generate slugs for persian strings, just with 1 helper!",
+    "type": "library",
+    "minimum-stability": "dev",
+    "keywords": [
+        "slug",
+        "persian-slug",
+        "laravel"
+    ],
+    "homepage": "https://github.com/AmirVahedix",
+    "authors": [
+        {
+            "name": "AmirVahedix",
+            "email": "amirvahedix@gmail.com",
+            "homepage": "https://amirvahedi.ir"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AmirVahedix\\laravel-persian-slugify\\": "src"
+        },
+        "files": [
+            "src/slug-helper.php"
+        ]
+    },
+    "require": {
+        "php": "^7.1.8 || ^8.0"
+    }
+}
